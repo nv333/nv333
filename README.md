@@ -1,16 +1,15 @@
 
+## Hello, I'm Nuria Varela 
+
 ### I'm currently enrolled on a Computer Science MSc course at the University of Bath
 
-- ⭐️ Working on expanding my portfolio
+- 📕 Working on expanding my portfolio
 
-- 👽 I’m interested in collaborate with other developers
+- 🤝 I’m interested in collaborating with other developers
 
-- 🌌 Goal for 2022: Contributing more to open source projects
+- 💭 Goal for 2022: contributing more to open source projects
 
-- 🌋 Fun fact: my undergraduate degree is in BioChemistry!
-
-<br />
-
+- 🧪 Fun fact: my undergraduate degree is in BioChemistry!
 
 ### languages and Tools:
 
