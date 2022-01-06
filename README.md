@@ -9,9 +9,9 @@
 
 - 💭 Goal for 2022: contributing more to open source projects
 
-- 🧪 Fun fact: my undergraduate degree is in BioChemistry!
+- 🧪 Fun fact: my undergraduate degree is in Biochemistry
 
-### languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
