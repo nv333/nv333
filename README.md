@@ -1,7 +1,7 @@
 
 ## Hello, I'm Nuria Varela 
 
-### I'm a Junior Software Engineer
+### I'm a Software Engineer
 
 - 📕 Working on expanding my personal portfolio
 
